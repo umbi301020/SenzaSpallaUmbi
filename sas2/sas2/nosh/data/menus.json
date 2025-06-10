@@ -1,0 +1,35 @@
+[ {
+  "id" : "5f0be927",
+  "titolo" : "Menu di prova",
+  "eventoId" : "e1",
+  "dataCreazione" : [ 2025, 6, 10, 20, 15, 4, 329095800 ],
+  "sezioni" : { },
+  "informazioniAggiuntive" : null,
+  "pubblicato" : false,
+  "totalVoci" : 0
+}, {
+  "id" : "0065e3a3",
+  "titolo" : "Menu matrimonio",
+  "eventoId" : "e1",
+  "dataCreazione" : [ 2025, 6, 10, 20, 3, 45, 411397400 ],
+  "sezioni" : {
+    "antipasti" : [ {
+      "ricettaId" : "r1",
+      "nomeVisualizzato" : "Spaghetti alla Carbonara",
+      "sezione" : "antipasti"
+    }, {
+      "ricettaId" : "r2",
+      "nomeVisualizzato" : "Tiramisù",
+      "sezione" : "antipasti"
+    } ],
+    "primi" : [ {
+      "ricettaId" : "r1",
+      "nomeVisualizzato" : "Spaghetti alla Carbonara",
+      "sezione" : "primi"
+    } ],
+    "secondi" : [ ]
+  },
+  "informazioniAggiuntive" : null,
+  "pubblicato" : true,
+  "totalVoci" : 3
+} ]
